@@ -3,3 +3,4 @@ azure-identity
 azure-ai-agents
 azure-ai-inference
 azure-ai-projects
+python-dotenv
